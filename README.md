@@ -9,24 +9,26 @@ create db.json in own public GitHub repository and add username, repository and 
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer
 
 food endpoint:
-GET entire list
+returns entire list
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food
 
-GET single item by id
+returns single item by id
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food/1
 
-multiple item by attribute
+returns multiple items by attribute
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food?name=Rosenkohl
 
+endpoint units:
+returns list for dropdown menu
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/units
 
-https://my-json-server.typicode.com/tippeltappel/my_json_server/contacts?unique_name=Manny
+endpoint categories
+returns list for dropdown menu
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/categories
 
-boats endpoint:
-https://my-json-server.typicode.com/tippeltappel/my_json_server/boats?
+endpoint updates:
+returns list with update dates of all dropdown lists
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/updates
 
-https://my-json-server.typicode.com/tippeltappel/my_json_server/boats?name=Wiking%20VIII
-
-reservations endpoint:
-https://my-json-server.typicode.com/tippeltappel/my_json_server/reservations?
-
-https://my-json-server.typicode.com/tippeltappel/my_json_server/reservations?begin_date=2020-08-15
+returns update date of a single dropdown list
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/updates?list=categories
