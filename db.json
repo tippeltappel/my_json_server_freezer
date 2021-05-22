@@ -1,7 +1,8 @@
 {
    "food":[
       {"id":"1","name":"Grünkohl","updated":"2020-11-06T14:25:06+2"},
-      {"id":"2","name":"Rosenkohl","updated":"2020-11-06T14:25:06+2"}
+      {"id":"2","name":"Rosenkohl","updated":"2020-11-06T14:25:06+2"},
+      {"id":"3","name":"Rosenkohl","updated":"2020-10-02T10:05:44+2"}
    ],
    "units":{
       "list":["gr.","St.","ml"],

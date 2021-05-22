@@ -8,8 +8,16 @@ create db.json in own public GitHub repository and add username, repository and 
 
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer
 
-freezer endpoint:
-https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/freezer
+food endpoint:
+GET entire list
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food
+
+GET single item by id
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food/1
+
+multiple item by attribute
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food?name=Rosenkohl
+
 
 https://my-json-server.typicode.com/tippeltappel/my_json_server/contacts?unique_name=Manny
 
