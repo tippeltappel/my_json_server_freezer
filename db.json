@@ -4,14 +4,8 @@
       {"id":"2","name":"Rosenkohl","updated":"2020-11-06T14:25:06+2"},
       {"id":"3","name":"Rosenkohl","updated":"2020-10-02T10:05:44+2"}
    ],
-   "units":{
-      "list":["gr.","St.","ml"],
-      "updated":"2021-05-02T17:03:45+2"
-   },
-   "categories":{
-      "list":["Gemüse","Fleisch","Brot"],
-      
-   },
+   "units":["gr.","St.","ml"],
+   "categories":["Gemüse","Fleisch","Brot"],
    "updates":[
       {"list":"units","updated":"2021-05-04T03:17:03+2"},
       {"list":"categories","updated":"2021-04-17T03:17:03+2"}
