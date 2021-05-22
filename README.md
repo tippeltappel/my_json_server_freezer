@@ -6,8 +6,10 @@ Fake REST API built with https://my-json-server.typicode.com/
 
 create db.json in own public GitHub repository and add username, repository and endpoint to above URL
 
-contacts endpoint:
-https://my-json-server.typicode.com/tippeltappel/my_json_server/contacts?
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer
+
+freezer endpoint:
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/freezer
 
 https://my-json-server.typicode.com/tippeltappel/my_json_server/contacts?unique_name=Manny
 
