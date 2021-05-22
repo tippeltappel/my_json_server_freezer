@@ -10,7 +10,11 @@
    },
    "categories":{
       "list":["Gemüse","Fleisch","Brot"],
-      "updated":"2021-05-04T03:17:03+2"
-   }
+      
+   },
+   "updates":[
+      {"list":"units","updated":"2021-05-04T03:17:03+2"},
+      {"list":"categories","updated":"2021-04-17T03:17:03+2"}
+   ]
 }      
 
