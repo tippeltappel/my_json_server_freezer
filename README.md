@@ -8,23 +8,34 @@ create db.json in own public GitHub repository and add username, repository and 
 
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer
 
-food endpoint:
+endpoint food:
 returns entire list
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food
 
-returns single item by id
+returns single food item by id
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food/1
 
 returns multiple items by attribute
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/food?name=Rosenkohl
 
+
+endpoint eans:
+returns entire list
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/eans
+
+returns single ean by id
+https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/eans/1234567890100
+
+
 endpoint units:
 returns list for dropdown menu
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/units
 
+
 endpoint categories
 returns list for dropdown menu
 https://my-json-server.typicode.com/tippeltappel/my_json_server_freezer/categories
+
 
 endpoint updates:
 returns list with update dates of all dropdown lists
