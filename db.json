@@ -1,14 +1,16 @@
 {"freezer":{
-      "food":[
-         {"id":"1","name":"Grünkohl","updated":"2020-11-06T14:25:06+2","ean":"1234567890100"},
-         {"id":"2","name":"Rosenkohl","updated":"2020-11-06T14:25:06+2","ean":"1234567890101"},
-         {"id":"3","name":"Rosenkohl","updated":"2020-10-02T10:05:44+2","ean":"1234567890102"}
-      ],
-      "eans":[
-         {"id":"1234567890100","image":"blob100","updated":"2020-11-06T14:25:06+2"},
-         {"id":"1234567890101","image":"blob101","updated":"2020-11-06T14:25:06+2"},
-         {"id":"1234567890102","image":"blob102","updated":"2020-10-02T10:05:44+2"}
-      ],
+   "id":"food",
+   "foodlist":[
+      {"id":"1","name":"Grünkohl","updated":"2020-11-06T14:25:06+2","ean":"1234567890100"},
+      {"id":"2","name":"Rosenkohl","updated":"2020-11-06T14:25:06+2","ean":"1234567890101"},
+      {"id":"3","name":"Rosenkohl","updated":"2020-10-02T10:05:44+2","ean":"1234567890102"}
+   ],
+   "id":"eans",
+   "eanslist":[
+      {"id":"1234567890100","image":"blob100","updated":"2020-11-06T14:25:06+2"},
+      {"id":"1234567890101","image":"blob101","updated":"2020-11-06T14:25:06+2"},
+      {"id":"1234567890102","image":"blob102","updated":"2020-10-02T10:05:44+2"}
+   ]},
       "units":["gr.","St.","ml"],
       "categories":["Gemüse","Fleisch","Brot"],
       "updates":[
